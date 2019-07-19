@@ -1,6 +1,6 @@
 package com.klaus.base.ioPojo;
 
-import com.wfq.demo_sb.pojo.User;
+import com.klaus.base.pojo.User;
 
 import java.util.List;
 

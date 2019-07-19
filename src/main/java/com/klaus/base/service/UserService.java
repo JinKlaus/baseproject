@@ -1,6 +1,6 @@
 package com.klaus.base.service;
 
-import com.wfq.demo_sb.entity.UserEntity;
+import com.klaus.base.entity.UserEntity;
 
 public interface UserService {
 

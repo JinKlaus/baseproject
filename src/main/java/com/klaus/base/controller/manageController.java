@@ -1,10 +1,10 @@
 package com.klaus.base.controller;
 
-import com.wfq.demo_sb.entity.UserEntity;
-import com.wfq.demo_sb.ioPojo.MainInfo;
-import com.wfq.demo_sb.pojo.User;
-import com.wfq.demo_sb.repository.UserRepository;
-import com.wfq.demo_sb.service.UserService;
+import com.klaus.base.entity.UserEntity;
+import com.klaus.base.ioPojo.MainInfo;
+import com.klaus.base.pojo.User;
+import com.klaus.base.repository.UserRepository;
+import com.klaus.base.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.RequestBody;

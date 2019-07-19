@@ -1,6 +1,6 @@
 package com.klaus.base.repository.impl;
 
-import com.wfq.demo_sb.repository.BaseRepository;
+import com.klaus.base.repository.BaseRepository;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.jpa.repository.support.JpaEntityInformation;
